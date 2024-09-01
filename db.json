@@ -1,0 +1,65 @@
+{
+    "coffee": [
+        {
+            "name": "Espresso",
+            "description": "Un café muy concentrado hecho forzando  agua caliente a alta presión a través de café finamente molido. Es la base para muchas bebidas de café como lattes, cappuccinos y macchiatos."
+
+        },
+
+        {
+            "name": "Americano",
+            "description": "Un espresso diluido con agua caliente, lo que resulta en un café más suave pero con un sabor similar al de un café filtrado."
+        },
+
+        {
+            "name": "Latte",
+            "description": " Un espresso combinado con una gran cantidad de leche vaporizada y una ligera capa de espuma de leche. Es cremoso y suave."
+        }
+
+        ],
+        
+    "postre": [
+        {
+            "name": "Tarta de Queso (Cheesecake)",
+            "description": "Un postre cremoso hecho con queso crema, azúcar y huevos sobre una base de galleta triturada. Puede ser horneado o sin hornear y se puede encontrar en muchas variedades, como de frutas o chocolate."
+        },
+
+        {
+            "name": "Brownie",
+            "description": "Un pastelito denso y chocolateado que se hornea en un molde. Puede tener una textura más suave o más firme y a menudo se sirve con helado o nueces."
+        },
+
+        {
+            "name": "Flan",
+            "description": "Un postre de caramelo con una base de huevo, leche y azúcar, cocido al baño maría hasta que esté firme. Se sirve con una capa de caramelo líquido por encima."
+        }
+
+        ],
+
+            
+    "Book": [
+        {
+            "Tittle": "Cien años de soledad",
+            "author": "Gabriel García Márquez",
+            "Type": "Ficción",
+            "description": "Una novela emblemática del realismo mágico que sigue la historia de la familia Buendía en el pueblo ficticio de Macondo."
+        },
+
+        {
+            "Tittle": "El nombre del viento",
+            "author": " Patrick Rothfuss",
+            "Type": "Ciencia Ficción y Fantasía",
+            "description": "La primera novela de la serie Crónica del asesino de reyes, que sigue la vida de Kvothe, un joven prodigio en un mundo de magia y misterio."
+        },
+
+        {
+            "Tittle": "La chica del tren",
+            "author": "Paula Hawkins",
+            "Type": "Misterio y Thriller",
+            "description": "Un thriller psicológico sobre una mujer que se ve envuelta en una desaparición mientras viaja en tren."
+        }
+
+        ]
+
+
+}

@@ -1,0 +1,15 @@
+{
+  "name": "json-sever",
+  "version": "0.0.1",
+  "description": "SERVIDOR CON INFORMACION",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Juan Narvaez",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2",
+    "npm": "^10.8.3"
+  }
+}
